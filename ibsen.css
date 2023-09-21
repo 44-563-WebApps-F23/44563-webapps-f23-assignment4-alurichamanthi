@@ -26,7 +26,7 @@
 
 .Billing {
 
-    color: #FF5733; /* Nora's name color */
+    color: #FF5733; 
 
 }
 
@@ -34,13 +34,12 @@
 
 .Hovstad {
 
-    color: #3498DB; /* Nurse's name color */
+    color: #3498DB; 
 
 }
 
  
 
-/* Style for the character table */
 
 .character-table {
 
@@ -52,13 +51,10 @@
 
 }
 
- 
-
-/* Style for table headers */
 
 .character-table th {
 
-    background-color: #333;
+    background-color: #333333;
 
     color: white;
 
@@ -66,13 +62,11 @@
 
     padding: 10px;
 
-    border: 1px solid #666;
+    border: 1px solid #917f7f;
 
 }
 
- 
-
-/* Style for alternating row stripes */
+ /* Style for alternating row stripes */
 
 .character-table tbody tr:nth-child(odd) {
 
@@ -80,9 +74,7 @@
 
 }
 
- 
-
-/* Style for table cells (td) */
+ /* Style for table cells (td) */
 
 .character-table td {
 
@@ -94,21 +86,21 @@
 
 }
 
-/* Hover effect for character names */
+
 
 .speech:hover {
 
-    text-shadow: 2px 2px 4px #FF5733; /* Apply a shadow with an interesting color and blur */
+    text-shadow: 2px 2px 4px #FF5733;
 
-    border: 1px solid #FF5733; /* Apply an interesting border */
+    border: 1px solid #FF5733;
 
 }
 
-/* Style for the bottom navbar */
+
 
 .bottom-navbar {
 
-    background-color: #333;
+    background-color: #879c0d;
 
     color: white;
 
